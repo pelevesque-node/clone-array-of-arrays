@@ -8,7 +8,7 @@ Clones an array of arrays.
 
 ## Node Repository
 
-[https://www.npmjs.com/package/@pelevesque/clone-array-of-arrays](https://www.npmjs.com/package/@pelevesque/clone-array-of-arrays)
+https://www.npmjs.com/package/@pelevesque/clone-array-of-arrays
 
 ## Installation
 
