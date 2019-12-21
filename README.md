@@ -31,7 +31,7 @@ const cloneArrayOfArrays = require('@pelevesque/clone-array-of-arrays')
 ```
 
 ```js
-const arrayOfArrays = [ [0, 0], [0, 1], [0, 2] ]
+const arrayOfArrays = [[0, 0], [0, 1], [0, 2]]
 const result = cloneArrayOfArrays(arrayOfArrays)
-// result === [ [0, 0], [0, 1], [0, 2] ]
+// result === [[0, 0], [0, 1], [0, 2]]
 ```
