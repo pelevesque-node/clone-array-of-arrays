@@ -4,7 +4,7 @@
 const expect = require('chai').expect
 const cloneArrayOfArrays = require('../index')
 
-describe('all', () => {
+describe('all tests for cloneArrayOfArrays()', () => {
   it('should return an exact copy of the original array', () => {
     const arr = [[0, 0], [0, 1], [0, 2]]
     const result = JSON.stringify(cloneArrayOfArrays(arr))
